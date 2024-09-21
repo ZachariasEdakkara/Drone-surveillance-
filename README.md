@@ -1,4 +1,4 @@
-# Drone-surveillance-
+# Drone-surveillance
 This repo contains all the files used in creating a drone simulation for aerial surveillance and monitoring.
 
 Simulation is run using ros noetic, Rviz and Gazebo on Ubuntu 20.04 VM
