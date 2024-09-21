@@ -13,4 +13,5 @@ Darknet_ros has been integrated into the simulation to help with object detectio
 
 ## References-
 The skeletal framework for basic drone simulation has been built upon the hector quadrotor repo by RAFALAMAO: (https://github.com/RAFALAMAO/hector-quadrotor-noetic)
-Darknet_ros has been cloned form the repo : (https://github.com/leggedrobotics/darknet_ros.git) 
+
+Darknet_ros has been cloned form the repo : (https://github.com/leggedrobotics/darknet_ros.git)
